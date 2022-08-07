@@ -1,4 +1,4 @@
-# Welcome to the momomed Project!
+# Welcome to the momomed project!
 
 ## 1. The problem
 In Sub-Saharan Africa, healthcare expenses fall hardest on families. Families without ready access to cash reserves or investments experience undue burdens in paying for medical care and support. The impact on families is felt most acutely in countries where a vast majority of the population does not have access to government assistance or health insurance, like Cameroon where only 6% of the population purchases health insurance. As a result, 70% of health expenditures come directly from households (out of their pocket). people  uses coping strategies (loans from friends, family and community members, life savings and selling assets)  to pay more than half a billion FCFA per year (the equivalent of nearly 900 million USD) for their health. The burden placed on families in producing cash for urgent healthcare needs, however, is incalculable.
