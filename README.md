@@ -12,20 +12,10 @@ The technology facilitates this goal by being:
 * Transparent—explaining subscription, savings, and payments with SMS messages, notifications, and USSD requests.
 
 ## 4.roadmap
-|N° | Start Date| Phase |
-|---|-----|-------|
-|1 | January 2022 | Ideation and research|
-|2|August 2022 | Design|
-|3| January 2023| Test design and gather feedback|
-|4| May 2023| Develop an MVP|
-|5| November 2023| Launch the 3-year pilot in Cameroon|
-
-## 5.Technical aspects
-### Design Challenges
-Finished with the ideation and research phase of the project, momoMED enters the design phase in August 2022 energized to overcome the particularities of extending the capabilities of mobile money technology in Sub-Saharan Africa. 
-During this phase, momomed team seeks :
-
-- [ ] Firstly, to **build a mobile money wallet** –(mobile money merchant account with clients ledger) that is linked to an already existing mobile money system. As such, we seek to enforce the GSMA API in the mobile money system to trigger actions when there are transactions in the mobile money account of momoMED subscribers. 
-- [ ] Secondly, **to build a system that is flexible enough to be expanded to other countries** in Central and West Africa where regulatory measurers differ and taxes imposed by governments present potential barriers for subscriber participation.
-- [ ] Thirtly, we want to build momoMED so that **payments for medical care can be discounted at healthcare facilities registered** in the momoMED system. By overcoming these challenges with the design team, momoMED believes it can create a robust product ready to be piloted where African families demand a better healthcare financing system.
-- [ ] Lastly, the challenge of momomed is to design a cash-plan based policy suitable for underseved communities to access most wanted health services.
+|N° | Start Date| Phase |status|
+|---|-----|-------|-----|
+|1 | January 2022 | Ideation and research|done|
+|2|August 2022 | Design|ongoing|
+|3| January 2023| Test design and gather feedback|planned|
+|4| May 2023| Develop an MVP|planned|
+|5| November 2023| Launch the 3-year pilot in Cameroon|planned|
